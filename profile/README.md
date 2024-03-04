@@ -5,3 +5,5 @@
 ## 相关链接：
 
 **[资源包](https://github.com/MC-Schale-Server/Resource-packs)**
+
+**[官网](https://www.mc-schale.com/)**
